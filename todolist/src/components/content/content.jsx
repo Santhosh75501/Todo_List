@@ -67,7 +67,6 @@ function Content() {
             setText.value = "";
 
         }
-
     }
 
     useEffect(() => {
