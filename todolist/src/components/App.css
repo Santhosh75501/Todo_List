@@ -1,0 +1,12 @@
+.menu{
+  position: relative;
+  display: flex;
+  background-color: slateblue;
+  color: white;
+  padding: 20px;
+}
+.menu label{
+  font-size: 20px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
